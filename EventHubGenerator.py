@@ -13,7 +13,7 @@ from azure.eventhub import EventHubClient, Sender, EventData
 
 # Config this with your Azure EventHub parameters
 ADDRESS = "amqps://************.servicebus.windows.net/**********"
-# Event Hug SAS name
+# Event Hub SAS name
 USER = "*******"
 KEY = "*************************"
 
